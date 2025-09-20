@@ -73,6 +73,6 @@ python bot.py
 ## 🤝 Контакты
 По вопросам:
 
-Telegram: @El0chka
+Telegram: @E10chka
 
 Email: elochka.russia@gmail.com
