@@ -73,6 +73,6 @@ python bot.py
 ## 🤝 Контакты
 По вопросам:
 
-Telegram: @E10chka
+Telegram: @Lux1de
 
-Email: elochka.russia@gmail.com
+Email: luxide@yandex.ru
